@@ -672,9 +672,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /*!***********************************!*\
   !*** ./assets/img/food-table.jpg ***!
   \***********************************/
-/***/ (() => {
+/***/ ((module) => {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nError: write EOF\\n    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)\");\n\n//# sourceURL=webpack://19-food-festival/./assets/img/food-table.jpg?");
+eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack://19-food-festival/./assets/img/food-table.jpg?");
 
 /***/ }),
 
@@ -682,9 +682,9 @@ eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-l
 /*!******************************!*\
   !*** ./assets/img/grill.jpg ***!
   \******************************/
-/***/ (() => {
+/***/ ((module) => {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nError: write EOF\\n    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)\");\n\n//# sourceURL=webpack://19-food-festival/./assets/img/grill.jpg?");
+eval("module.exports = \"assets/img/grill.jpg\";\n\n//# sourceURL=webpack://19-food-festival/./assets/img/grill.jpg?");
 
 /***/ }),
 
